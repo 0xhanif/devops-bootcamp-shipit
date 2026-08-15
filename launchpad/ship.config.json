@@ -1,6 +1,6 @@
 {
-  "shipName": "Kapal Terbang",
-  "color": "white",
+  "shipName": "Devops",
+  "color": "#22d3ee",
   "shipModel": "scout",
   "emblem": "star"
 }
